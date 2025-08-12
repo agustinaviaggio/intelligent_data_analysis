@@ -53,4 +53,4 @@ Agustina Viaggio
 
 [LinkedIn](https://www.linkedin.com/in/agusviaggio/)
 
-📧 Email: agustinaviaggion@gmail.com
+📧 Email: agustinaviaggio@gmail.com
