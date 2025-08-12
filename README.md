@@ -1,11 +1,8 @@
-# intelligent_data_analysis
-Practical assignments from the Intelligent Data Analysis course of the Master’s in Data Mining and Knowledge Discovery (University of Buenos Aires). Applies statistical and data analysis methods, with a focus on manipulation, visualization, and predictive modeling, using R.
-
 # Análisis Inteligente de Datos - Maestría en Data Mining y Knowledge Discovery (UBA)
 **English version below ⬇️**
 
 ## 📌 Descripción (Español)
-Este repositorio reúne los seis trabajos prácticos desarrollados en la materia **Análisis Inteligente de Datos**, correspondiente a la **Maestría en Data Mining and Knowledge Discovery** de la Universidad de Buenos Aires (UBA).
+Este repositorio reúne los seis trabajos prácticos usando R desarrollados en la materia **Análisis Inteligente de Datos**, correspondiente a la **Maestría en Data Mining and Knowledge Discovery** de la Universidad de Buenos Aires (UBA).
 
 Los trabajos aplican métodos estadísticos y de análisis de datos, con foco en:
 - Manipulación y limpieza de datos.
@@ -26,7 +23,7 @@ Los trabajos aplican métodos estadísticos y de análisis de datos, con foco en
 # Intelligent Data Analysis - Master's in Data Mining and Knowledge Discovery (UBA)
 
 ## 📌 Description (English)
-This repository contains the six practical assignments completed for the **Intelligent Data Analysis** course, part of the **Master’s in Data Mining and Knowledge Discovery** at the University of Buenos Aires (UBA).
+This repository contains the six practical assignments using R completed for the **Intelligent Data Analysis** course, part of the **Master’s in Data Mining and Knowledge Discovery** at the University of Buenos Aires (UBA).
 
 The assignments apply statistical and data analysis methods, focusing on:
 - Data manipulation and cleaning.
