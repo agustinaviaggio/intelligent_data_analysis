@@ -1,4 +1,4 @@
-# Análisis Inteligente de Datos - Maestría en Data Mining y Knowledge Discovery (UBA)
+# Análisis Inteligente de Datos
 **English version below ⬇️**
 
 ## 📌 Descripción (Español)
@@ -20,7 +20,7 @@ Los trabajos aplican métodos estadísticos y de análisis de datos, con foco en
 
 ---
 
-# Intelligent Data Analysis - Master's in Data Mining and Knowledge Discovery (UBA)
+# Intelligent Data Analysis
 
 ## 📌 Description (English)
 This repository contains the six practical assignments using R completed for the **Intelligent Data Analysis** course, part of the **Master’s in Data Mining and Knowledge Discovery** at the University of Buenos Aires (UBA).
