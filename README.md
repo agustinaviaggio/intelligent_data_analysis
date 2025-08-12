@@ -51,7 +51,7 @@ The assignments apply statistical and data analysis methods, focusing on:
 ---
 
 
-✍️ Author
+### ✍️ Author
 Agustina Viaggio
 
 [LinkedIn](https://www.linkedin.com/in/agusviaggio/)
