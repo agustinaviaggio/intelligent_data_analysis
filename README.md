@@ -11,7 +11,7 @@ Los trabajos aplican métodos estadísticos y de análisis de datos, con foco en
 - Uso de **R** y **RMarkdown** para un flujo de trabajo reproducible.
 
 ### 📂 Contenido
-- **TP1:** Introducción a R y análisis exploratorio de datos (EDA).  
+- **TP1:** Análisis exploratorio de datos (EDA).  
 - **TP2:** Limpieza, transformación y preparación de datos. Test estadísticos. Bootstraping. 
 - **TP3:** Visualización y análisis estadístico descriptivo. Análisis de Componentes Principales (PCA). 
 - **TP4:** Análisis de Correspondencia Simple y Múltiple.  
@@ -32,7 +32,7 @@ The assignments apply statistical and data analysis methods, focusing on:
 - Using **R** and **RMarkdown** for a reproducible workflow.
 
 ### 📂 Contents
-- **TP1:** Introduction to R and exploratory data analysis (EDA).  
+- **TP1:** Exploratory data analysis (EDA).  
 - **TP2:** Data cleaning, transformation, and preparation. Statical tests. Bootstraping. 
 - **TP3:** Visualization and descriptive statistical analysis. Principal Component Analysis (PCA). 
 - **TP4:** Simple and Multiple Correspondence Analysis.  
